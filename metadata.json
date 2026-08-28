@@ -1,0 +1,6 @@
+{
+  "name": "Nixi",
+  "description": "A clean, mobile-first Pinterest-inspired student visual hub with first-time onboarding, customizable profiles, theme-based task and gamified level progression system, 7-in-1 Ajanda & Planners suite, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
